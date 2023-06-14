@@ -1,0 +1,28 @@
+{
+  "name": "octoherd-script-remove-skypack-cdn",
+  "version": "0.0.0-development",
+  "type": "module",
+  "exports": "./script.js",
+  "bin": {
+    "octoherd-script-remove-skypack-cdn": "./cli.js"
+  },
+  "description": "Octoherd script to remove references to Skypack",
+  "scripts": {
+    "start": "node cli.js",
+    "test": "node script.js"
+  },
+  "repository": "https://github.com/wolfy1339/octoherd-script-remove-skypack-cdn",
+  "keywords": [
+    "octoherd-script"
+  ],
+  "author": "wolfy1339 <webmaster@wolfy1339.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@octoherd/cli": "^3.6.8"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
