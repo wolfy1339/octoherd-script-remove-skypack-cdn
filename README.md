@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/wolfy1339/octoherd-script-remove-skypack-cdn/pull/1) | [Preview](https://github.com/wolfy1339/octoherd-script-remove-skypack-cdn/tree/initial-version)
-
 # octoherd-script-remove-skypack-cdn
 
 > Octoherd script to remove references to Skypack
